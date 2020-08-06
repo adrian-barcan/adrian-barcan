@@ -15,4 +15,4 @@ My name is Adrian Barcan and I'm a software developer. I'm from Romania, living 
 
 
 ## &#x1f4c8; GitHub Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=barcan1012&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adrian-barcan&show_icons=true)
